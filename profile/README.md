@@ -1,4 +1,4 @@
-# Welcome to the Juniorise
+# Welcome to Juniorise
 
 Juniorise is a small innovative team that loves to develop open-source software. We started from a site to help juniors then end up developing software to help everyone.
 
