@@ -1,12 +1,8 @@
-## Hi there 👋
+# Welcome to the Juniorise
 
-<!--
+Juniorise is a small innovative team that loves to develop open-source software. We started from a site to help juniors then end up developing software to help everyone.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Repositories
+* [spooky](https://github.com/juniorise/spooky-be): Minimalist application to write stories, notes, diary! 🎃
+* [camgeo](https://github.com/juniorise/cambodia_geography) : CamGeo - Discover places & geography around Cambodia 📝
+* [spooky-be](https://github.com/juniorise/spooky-be): Backend for Spooky application
